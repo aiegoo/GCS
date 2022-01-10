@@ -22,7 +22,7 @@ You will need the LTS version of [Node.js][].
 Open up your command line application and clone this repository
 
 ```bash
-git clone https://github.com/NGCP/GCS.git
+git clone https://github.com/aiegoo/GCS.git
 ```
 
 ### Running the program
